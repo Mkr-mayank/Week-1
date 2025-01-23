@@ -1,4 +1,6 @@
 # Week-1
-To develop a CNN model to classify images of plastic waste
+This is the week 1 of our project titled "To develop a CNN model to classify images of plastic waste"
+<br>
+Here we have categoried the wastes in a pie chart.
 <br>
 Link for dataset: https://www.kaggle.com/datasets/techsash/waste-classification-data/data
